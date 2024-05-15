@@ -39,7 +39,7 @@ const styles = StyleSheet.create({
   },
   card: {
     flex: 1,
-    width: "20%",
+    width: '20%',
     height: 100,
     borderRadius: 4,
     margin: 8,
